@@ -1,2 +1,3 @@
 # Cearch-with-C
-search files in your windows
+search and open files in your windows.
+
